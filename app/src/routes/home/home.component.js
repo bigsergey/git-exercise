@@ -1,6 +1,12 @@
 import React, {Component} from 'react';
+import envConfig from 'env-config';
+
 
 export class Home extends Component {
+  componentWillMount() {
+    fetch(`http://myapi?privateKey=${envConfig.privateKey}`)
+  }
+  
   render() {
     return (
       <div className="home">
