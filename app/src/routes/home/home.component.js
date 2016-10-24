@@ -4,7 +4,7 @@ export class Home extends Component {
   render() {
     return (
       <div className="home">
-        <h1>Hello world!</h1>
+        <h1>Hello world!!!</h1>
 
         <section className="home__section">
           <h2 className="home__section-header">Section 1 header</h2>
