@@ -19,6 +19,13 @@ This fork repo contains solutions for the problems presented in the original [re
 - fix Username in some commits
 - rename feature branches
 
+## Used aliases
+```
+git co     - git checkout
+git cm     - git commit -m
+git purrod - git pull --rebase origin develop
+```
+
 ## Fix author name in commits:
 
 Based on [this answer](http://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit) on stackoverflow:
