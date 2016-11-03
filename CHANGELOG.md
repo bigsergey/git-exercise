@@ -1,4 +1,4 @@
-hange Log
+# Change Log
 All notable changes to this project will be documented in this file.
 
 ## [0.3.0]
@@ -18,7 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - .idea to .gitignore
 - home page content
-- style gome sections
+- style home sections
 
 ## [0.1.0]
 ### Added
