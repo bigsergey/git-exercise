@@ -3,7 +3,7 @@
 This fork repo contains solutions for the problems presented in the original [repo](https://github.com/wojciech-panek/git-exercise).
 
 ## TODO
-- git bisect
+
 - add to gitignore npm-debug.log
 - remove release branch
 - merge all branches
