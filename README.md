@@ -2,6 +2,23 @@
 
 This fork repo contains solutions for the problems presented in the original [repo](https://github.com/wojciech-panek/git-exercise).
 
+## TODO
+- git bisect
+- add to gitignore npm-debug.log
+- remove release branch
+- merge all branches
+- rebase onto home-newsletter and home-list branches
+- add changelog.md
+- fix version in the package.json
+- fix hotfix
+  + remove from master
+  + create git flow hotfix
+  + increase version
+  + fix commit message
+- fix bugfix commit message
+- fix Username in some commits
+- rename feature branches
+
 ## Fix author name in commits:
 
 Based on [this answer](http://stackoverflow.com/questions/3042437/change-commit-author-at-one-specific-commit) on stackoverflow:
