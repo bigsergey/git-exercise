@@ -1,6 +1,11 @@
 hange Log
 All notable changes to this project will be documented in this file.
 
+## [0.3.0]
+### Added
+- home newsletter component
+- home list component
+
 ## [0.2.1]
 ### Changed
 - copy in home.component to correct one
